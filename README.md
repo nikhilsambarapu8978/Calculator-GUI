@@ -37,4 +37,4 @@ This is a basic calculator application built using Java Swing. It provides a gra
 
 1. Compile the Java code using a Java compiler (e.g., `javac`):
    ```sh
-   javac CalculatorGUI.java
+   javac Calculator.java
